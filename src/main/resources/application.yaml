@@ -1,2 +1,5 @@
 sample:
   value: default
+
+server:
+  port: 7000
